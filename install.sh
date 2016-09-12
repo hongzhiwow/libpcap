@@ -2,10 +2,6 @@
 #  Builds libpcap for all three current iPhone targets: iPhoneSimulator-i386,
 #  iPhoneOS-armv6, iPhoneOS-armv7.
 #
-#  Copyright 2012 Mike Tigas <mike@tig.as>
-#
-#  Based on work by Felix Schulze on 16.12.10.
-#  Copyright 2010 Felix Schulze. All rights reserved.
 #
 #  Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.
